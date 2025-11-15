@@ -1,0 +1,5 @@
+{
+  "name": "EGenius: KTU Engineering Graphics Solver",
+  "description": "An AI-powered web application to help KTU B.Tech students solve Engineering Graphics problems by providing step-by-step solutions and generating final drawings.",
+  "requestFramePermissions": []
+}
